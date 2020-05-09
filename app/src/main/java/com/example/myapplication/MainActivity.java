@@ -21,7 +21,7 @@ import java.util.concurrent.ExecutionException;
 
 public class MainActivity extends AppCompatActivity {
 
-    String Url = "https://ifconfig.co/json";
+    String Url = "https://bad-blogger.herokuapp.com/admin/get-question/5eb1847453de6f0b630ba182";
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
